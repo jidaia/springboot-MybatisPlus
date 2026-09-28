@@ -1,0 +1,13 @@
+com\yangli\mp\dto\UserFormDTO.class
+com\yangli\mp\enums\UserStatus.class
+com\yangli\mp\query\UserQuery.class
+com\yangli\mp\query\PageQuery.class
+com\yangli\mp\vo\UserVO.class
+com\yangli\mp\mapper\UserMapper.class
+com\yangli\mp\config\PageConfig.class
+com\yangli\mp\controller\UserController.class
+com\yangli\mp\config\OpenApiConfig.class
+com\yangli\mp\dto\PageDto.class
+com\yangli\mp\MpDemoApplication.class
+com\yangli\mp\domain\po\UserInfo.class
+com\yangli\mp\domain\po\User.class
